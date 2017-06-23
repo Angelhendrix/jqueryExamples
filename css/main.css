@@ -1,0 +1,31 @@
+.image{
+	height: 500px;
+	width: 500px;
+}
+
+
+h1{
+	color:red;
+}
+ 
+ .header h1.switch{
+ 	color:blue;
+ }
+
+ #huh{
+ 	border:solid;
+ }
+
+ .forum_hover { 
+ 	background-color: orange; 
+ 	height: 150px;
+ 	font-size: 10em;
+ }
+
+ #id2{
+ 	border:solid;
+ }
+
+ .heavyFont { 
+ 	font-size: 10em;
+ }
